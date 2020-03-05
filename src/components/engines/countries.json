@@ -1,0 +1,1453 @@
+[
+    {
+      "country": "USA",
+      "denominations": [
+        4,
+        6,
+        10,
+        20,
+        50
+      ],
+      "": ""
+    },
+    {
+      "country": "Canada",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Puerto Rico",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "U.S. Virgin Islands",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Costa Rica",
+      "denominations": [
+        4,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Australia",
+      "denominations": [
+        3,
+        6,
+        10,
+        24
+      ],
+      "": ""
+    },
+    {
+      "country": "Guam",
+      "denominations": [
+        4,
+        10,
+        20,
+        40
+      ],
+      "": ""
+    },
+    {
+      "country": "Japan",
+      "denominations": [
+        5,
+        10,
+        15
+      ],
+      "": ""
+    },
+    {
+      "country": "Netherlands",
+      "denominations": [
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Panama",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Germany",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "France",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "El Salvador",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Sweden",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Guatemala",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Curacao",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "United Kingdom",
+      "denominations": [
+        4,
+        6,
+        9.2
+      ],
+      "": ""
+    },
+    {
+      "country": "Hong Kong",
+      "denominations": [
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Bahamas",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "New Zealand",
+      "denominations": [
+        3,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Switzerland",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Ireland",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Austria",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Belgium",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Brazil",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Singapore",
+      "denominations": [
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Spain",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Denmark",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Philippines",
+      "denominations": [
+        4,
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "Malaysia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Norway",
+      "denominations": [
+        4,
+        6,
+        9,
+        18
+      ],
+      "": ""
+    },
+    {
+      "country": "Taiwan",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Andorra",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Finland",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Thailand",
+      "denominations": [
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Aruba",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Luxembourg",
+      "denominations": [
+        4,
+        6,
+        9.2
+      ],
+      "": ""
+    },
+    {
+      "country": "Venezuela",
+      "denominations": [
+        4,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Italy",
+      "denominations": [
+        4,
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "Mexico",
+      "denominations": [
+        4,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Cuba",
+      "denominations": [
+        4,
+        6,
+        10,
+        20,
+        50
+      ],
+      "": ""
+    },
+    {
+      "country": "Turkey",
+      "denominations": [
+        4,
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "Argentina",
+      "denominations": [
+        4,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Macau",
+      "denominations": [
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Serbia",
+      "denominations": [
+        4,
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "South Korea",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Hungary",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Russia",
+      "denominations": [
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "China",
+      "denominations": [
+        4,
+        5
+      ],
+      "": ""
+    },
+    {
+      "country": "Chile",
+      "denominations": [
+        4,
+        10
+      ],
+      "": "note: under “sides and potatoes”"
+    },
+    {
+      "country": "Indonesia",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Portugal",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Greece",
+      "denominations": [
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Uruguay",
+      "denominations": [
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Martinique",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Czech Republic",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Guadeloupe",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Poland",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Monaco",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Brunei",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Morocco",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Northern Marianas",
+      "denominations": [
+        4,
+        6,
+        10,
+        20,
+        50
+      ],
+      "": ""
+    },
+    {
+      "country": "Israel",
+      "denominations": [
+        4,
+        5,
+        9,
+        12,
+        24
+      ],
+      "": ""
+    },
+    {
+      "country": "Slovenia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Saudi Arabia",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Kuwait",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "New Caledonia",
+      "denominations": [
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Oman",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Egypt",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Bulgaria",
+      "denominations": [
+        4,
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "Bahrain",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Latvia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "United Arab Emirates",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Estonia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Romania",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Malta",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Colombia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Slovakia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "South Africa",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Qatar",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Honduras",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Sint Maarten",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Croatia",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Samoa",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Fiji",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Liechtenstein",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Lithuania",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "India",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Peru",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Jordan",
+      "denominations": [
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Paraguay",
+      "denominations": [
+        5,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Dominican Republic",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "French Polynesia",
+      "denominations": [
+        3,
+        6,
+        10,
+        24
+      ],
+      "": ""
+    },
+    {
+      "country": "Belarus",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Ukraine",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Cyprus",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Jersey",
+      "denominations": [
+        4,
+        6,
+        9.2
+      ],
+      "": ""
+    },
+    {
+      "country": "Ecuador",
+      "denominations": [
+        4,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Reunion",
+      "denominations": [
+        4,
+        6,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Isle of Man",
+      "denominations": [
+        4,
+        6,
+        9.2
+      ],
+      "": ""
+    },
+    {
+      "country": "Suriname",
+      "denominations": [
+        4,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Moldova",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Nicaragua",
+      "denominations": [
+        4,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "Lebanon",
+      "denominations": [
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Pakistan",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Sri Lanka",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Georgia",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Gibraltar",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Azerbaijan",
+      "denominations": [
+        5,
+        10
+      ],
+      "": ""
+    },
+    {
+      "country": "French Guiana",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "American Samoa",
+      "denominations": [
+        4,
+        6,
+        10,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Mauritius",
+      "denominations": [
+        6
+      ],
+      "": ""
+    },
+    {
+      "country": "Iraq",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "denominations": [
+        4,
+        6,
+        9
+      ],
+      "": ""
+    },
+    {
+      "country": "Vietnam",
+      "denominations": [
+        4,
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Kazakhstan",
+      "denominations": [
+        6,
+        9,
+        20
+      ],
+      "": ""
+    },
+    {
+      "country": "Afghanistan",
+      "denominations": [0]
+    },
+    {
+      "country": "Albania",
+      "denominations": [0]
+    },
+    {
+      "country": "Algeria",
+      "denominations": [0]
+    },
+    {
+      "country": "Angola",
+      "denominations": [0]
+    },
+    {
+      "country": "Armenia",
+      "denominations": [0]
+    },
+    {
+      "country": "Bangladesh",
+      "denominations": [0]
+    },
+    {
+      "country": "Barbados",
+      "denominations": [0]
+    },
+    {
+      "country": "Belize",
+      "denominations": [0]
+    },
+    {
+      "country": "Benin",
+      "denominations": [0]
+    },
+    {
+      "country": "Bhutan",
+      "denominations": [0]
+    },
+    {
+      "country": "Bolivia",
+      "denominations": [0]
+    },
+    {
+      "country": "Botswana",
+      "denominations": [0]
+    },
+    {
+      "country": "Brunei",
+      "denominations": [0]
+    },
+    {
+      "country": "Burkina",
+      "denominations": [0]
+    },
+    {
+      "country": "Burma (Myanmar)",
+      "denominations": [0]
+    },
+    {
+      "country": "Burundi",
+      "denominations": [0]
+    },
+    {
+      "country": "Cambodia",
+      "denominations": [0]
+    },
+    {
+      "country": "Cameroon",
+      "denominations": [0]
+    },
+    {
+      "country": "Cape Verde",
+      "denominations": [0]
+    },
+    {
+      "country": "Central African Republic",
+      "denominations": [0]
+    },
+    {
+      "country": "Chad",
+      "denominations": [0]
+    },
+    {
+      "country": "Comoros",
+      "denominations": [0]
+    },
+    {
+      "country": "Congo",
+      "denominations": [0]
+    },
+    {
+      "country": "Congo, Democratic Republic of",
+      "denominations": [0]
+    },
+    {
+      "country": "Djibouti",
+      "denominations": [0]
+    },
+    {
+      "country": "Dominica",
+      "denominations": [0]
+    },
+    {
+      "country": "East Timor",
+      "denominations": [0]
+    },
+    {
+      "country": "Equatorial Guinea",
+      "denominations": [0]
+    },
+    {
+      "country": "Eritrea",
+      "denominations": [0]
+    },
+    {
+      "country": "Ethiopia",
+      "denominations": [0]
+    },
+    {
+      "country": "Gabon",
+      "denominations": [0]
+    },
+    {
+      "country": "Gambia",
+      "denominations": [0]
+    },
+    {
+      "country": "Ghana",
+      "denominations": [0]
+    },
+    {
+      "country": "Grenada",
+      "denominations": [0]
+    },
+    {
+      "country": "Guinea",
+      "denominations": [0]
+    },
+    {
+      "country": "Guinea-Bissau",
+      "denominations": [0]
+    },
+    {
+      "country": "Guyana",
+      "denominations": [0]
+    },
+    {
+      "country": "Haiti",
+      "denominations": [0]
+    },
+    {
+      "country": "Iceland",
+      "denominations": [0]
+    },
+    {
+      "country": "Iran",
+      "denominations": [0]
+    },
+    {
+      "country": "Iraq",
+      "denominations": [0]
+    },
+    {
+      "country": "Ivory Coast",
+      "denominations": [0]
+    },
+    {
+      "country": "Jamaica",
+      "denominations": [0]
+    },
+    {
+      "country": "Kazakhstan",
+      "denominations": [0]
+    },
+    {
+      "country": "Kenya",
+      "denominations": [0]
+    },
+    {
+      "country": "Kiribati",
+      "denominations": [0]
+    },
+    {
+      "country": "Korea, North",
+      "denominations": [0]
+    },
+    {
+      "country": "Kyrgyzstan",
+      "denominations": [0]
+    },
+    {
+      "country": "Laos",
+      "denominations": [0]
+    },
+    {
+      "country": "Macedonia",
+      "denominations": [0]
+    },
+    {
+      "country": "Madagascar",
+      "denominations": [0]
+    },
+    {
+      "country": "Malawi",
+      "denominations": [0]
+    },
+    {
+      "country": "Maldives",
+      "denominations": [0]
+    },
+    {
+      "country": "Mali",
+      "denominations": [0]
+    },
+    {
+      "country": "Marshall Islands",
+      "denominations": [0]
+    },
+    {
+      "country": "Mauritania",
+      "denominations": [0]
+    },
+    {
+      "country": "Mauritius",
+      "denominations": [0]
+    },
+    {
+      "country": "Micronesia",
+      "denominations": [0]
+    },
+    {
+      "country": "Mongolia",
+      "denominations": [0]
+    },
+    {
+      "country": "Montenegro",
+      "denominations": [0]
+    },
+    {
+      "country": "Mozambique",
+      "denominations": [0]
+    },
+    {
+      "country": "Namibia",
+      "denominations": [0]
+    },
+    {
+      "country": "Nauru",
+      "denominations": [0]
+    },
+    {
+      "country": "Nepal",
+      "denominations": [0]
+    },
+    {
+      "country": "Niger",
+      "denominations": [0]
+    },
+    {
+      "country": "Nigeria",
+      "denominations": [0]
+    },
+    {
+      "country": "Palau",
+      "denominations": [0]
+    },
+    {
+      "country": "Papua New Guinea",
+      "denominations": [0]
+    },
+    {
+      "country": "Rwanda",
+      "denominations": [0]
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "denominations": [0]
+    },
+    {
+      "country": "Saint Lucia",
+      "denominations": [0]
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "denominations": [0]
+    },
+    {
+      "country": "Senegal",
+      "denominations": [0]
+    },
+    {
+      "country": "Seychelles",
+      "denominations": [0]
+    },
+    {
+      "country": "Sierra Leone",
+      "denominations": [0]
+    },
+    {
+      "country": "Solomon Islands",
+      "denominations": [0]
+    },
+    {
+      "country": "Somalia",
+      "denominations": [0]
+    },
+    {
+      "country": "South Sudan",
+      "denominations": [0]
+    },
+    {
+      "country": "Sudan",
+      "denominations": [0]
+    },
+    {
+      "country": "Swaziland",
+      "denominations": [0]
+    },
+    {
+      "country": "Syria",
+      "denominations": [0]
+    },
+    {
+      "country": "Tajikistan",
+      "denominations": [0]
+    },
+    {
+      "country": "Togo",
+      "denominations": [0]
+    },
+    {
+      "country": "Tonga",
+      "denominations": [0]
+    },
+    {
+      "country": "Tunisia",
+      "denominations": [0]
+    },
+    {
+      "country": "Turkmenistan",
+      "denominations": [0]
+    },
+    {
+      "country": "Tuvalu",
+      "denominations": [0]
+    },
+    {
+      "country": "Uganda",
+      "denominations": [0]
+    },
+    {
+      "country": "Uzbekistan",
+      "denominations": [0]
+    },
+    {
+      "country": "Vanuatu",
+      "denominations": [0]
+    },
+    {
+      "country": "Yemen",
+      "denominations": [0]
+    },
+    {
+      "country": "Zimbabwe",
+      "denominations": [0]
+    }
+    ]
