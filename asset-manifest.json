@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nuggulator/static/css/main.32a9134e.chunk.css",
+    "main.js": "/nuggulator/static/js/main.889941e1.chunk.js",
+    "main.js.map": "/nuggulator/static/js/main.889941e1.chunk.js.map",
+    "runtime-main.js": "/nuggulator/static/js/runtime-main.bb95d33f.js",
+    "runtime-main.js.map": "/nuggulator/static/js/runtime-main.bb95d33f.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/nuggulator/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.868afeda.chunk.js": "/nuggulator/static/js/2.868afeda.chunk.js",
+    "static/js/2.868afeda.chunk.js.map": "/nuggulator/static/js/2.868afeda.chunk.js.map",
+    "index.html": "/nuggulator/index.html",
+    "precache-manifest.acfc3f09b92dafd35b88fa76679445ef.js": "/nuggulator/precache-manifest.acfc3f09b92dafd35b88fa76679445ef.js",
+    "service-worker.js": "/nuggulator/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/nuggulator/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.32a9134e.chunk.css.map": "/nuggulator/static/css/main.32a9134e.chunk.css.map",
+    "static/js/2.868afeda.chunk.js.LICENSE.txt": "/nuggulator/static/js/2.868afeda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb95d33f.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.868afeda.chunk.js",
+    "static/css/main.32a9134e.chunk.css",
+    "static/js/main.889941e1.chunk.js"
+  ]
+}
