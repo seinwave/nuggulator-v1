@@ -33,7 +33,7 @@ class Navigation extends React.Component {
 
     render() {
         return (
-            <div style = {{height:'auto', width:'90%'}}>
+            <div className = "center" style = {{height:'auto', width:'90%'}}>
             <div style = {{height:'auto', width:'auto'}}>
                 <h1>
                     {"Tell me where you're walking."}
