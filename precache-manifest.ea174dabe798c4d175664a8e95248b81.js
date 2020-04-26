@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46b39808b1eea24721da9b32b824eab6",
+    "revision": "75b802be78770c615f919729cad6ed03",
     "url": "/nuggulator/index.html"
   },
   {
