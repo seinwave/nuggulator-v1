@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nuggulator/precache-manifest.a229d3eaee3a8ba19c8795c78a5b423f.js"
+  "/nuggulator/precache-manifest.6c5d857e8eef8d79ab71098b15389636.js"
 );
 
 self.addEventListener('message', (event) => {

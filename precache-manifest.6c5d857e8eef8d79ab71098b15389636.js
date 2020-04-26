@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43104b2b29eeb36eff89cd43babe2fd5",
+    "revision": "dee73e7c36e016080d1700686feadb3f",
     "url": "/nuggulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nuggulator/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "d7afdf49220c9e367e45",
+    "revision": "1a76f6b61c3c2f2f6a03",
     "url": "/nuggulator/static/css/main.32a9134e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nuggulator/static/js/2.868afeda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7afdf49220c9e367e45",
-    "url": "/nuggulator/static/js/main.0cd3af71.chunk.js"
+    "revision": "1a76f6b61c3c2f2f6a03",
+    "url": "/nuggulator/static/js/main.780fb45c.chunk.js"
   },
   {
     "revision": "7ab59eba2efad606eca9",

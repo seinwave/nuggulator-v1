@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nuggulator/static/css/main.32a9134e.chunk.css",
-    "main.js": "/nuggulator/static/js/main.0cd3af71.chunk.js",
-    "main.js.map": "/nuggulator/static/js/main.0cd3af71.chunk.js.map",
+    "main.js": "/nuggulator/static/js/main.780fb45c.chunk.js",
+    "main.js.map": "/nuggulator/static/js/main.780fb45c.chunk.js.map",
     "runtime-main.js": "/nuggulator/static/js/runtime-main.bb95d33f.js",
     "runtime-main.js.map": "/nuggulator/static/js/runtime-main.bb95d33f.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/nuggulator/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.868afeda.chunk.js": "/nuggulator/static/js/2.868afeda.chunk.js",
     "static/js/2.868afeda.chunk.js.map": "/nuggulator/static/js/2.868afeda.chunk.js.map",
     "index.html": "/nuggulator/index.html",
-    "precache-manifest.a229d3eaee3a8ba19c8795c78a5b423f.js": "/nuggulator/precache-manifest.a229d3eaee3a8ba19c8795c78a5b423f.js",
+    "precache-manifest.6c5d857e8eef8d79ab71098b15389636.js": "/nuggulator/precache-manifest.6c5d857e8eef8d79ab71098b15389636.js",
     "service-worker.js": "/nuggulator/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/nuggulator/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.32a9134e.chunk.css.map": "/nuggulator/static/css/main.32a9134e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.868afeda.chunk.js",
     "static/css/main.32a9134e.chunk.css",
-    "static/js/main.0cd3af71.chunk.js"
+    "static/js/main.780fb45c.chunk.js"
   ]
 }
