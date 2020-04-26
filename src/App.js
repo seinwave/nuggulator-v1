@@ -158,7 +158,6 @@ class App extends Component{
         </header>
         <Signature />
       </div>
-      
     );
   }
 }
