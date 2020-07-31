@@ -46,11 +46,13 @@ The sun never sets on McDonalds' empire. You can find McNuggets in 108 countries
 
 And while some countries share nugget denomination sets ([4,9,20] or [6,10,15], etc) in common, they didn't present this information in any common format.
 
+
 Sometimes it looked like this.
 
 <p align = "center">
 <img alt = "Israeli Menu" src = "documentation-assets/mcd-israel.png">
 </p>
+
 
 Or like this.
 
@@ -59,14 +61,14 @@ Or like this.
 </p>
 
 
+
 Or even like this.
 
 <p align = "center">
 <figure>
 <img alt = "Belarusian Menu" src = "documentation-assets/mcd-belarus.png">
-<figcaption>Perhaps I can interest you in some Big Shrimps?</figcaption>
-</figure>
 </p>
+*(Perhaps I can interest you in some Big Shrimps?)*
 
 
 
