@@ -1,68 +1,83 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Nuggulator
 
-## Aaaaaay what up this ya boy matty matt!
+Planning a walk? Don't starve! 
 
-In the project directory, you can run:
+Use the Nuggulator to help you!
 
-### `yarn start`
+The Nuggulator tells you how many McNuggets you need to walk a certain distance. Then it breaks that nugget count down into the denominations available at a McDonald's near you.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Nuggulator in action](https://mattseidholz.com/assets/images/nuggulator.gif)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Try it out [here.](seinwave.github.io/nuggulator)
 
-### `yarn test`
+I don't like to exaggerate — but I think it may be a million times more important than Facebook and Wikipedia put together.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Rationale
 
-### `yarn build`
+### Okay. Um. Why does this exist?
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+I was reading about [the Frobenius problem](https://en.wikipedia.org/wiki/Coin_problem)(for some reason). 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+The Frobenius number refers to the largest monetary amount that cannot be obtained using a specific set of coin denominations. It's an [NP-complete problem.](https://en.wikipedia.org/wiki/NP-completeness)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+And in that Wiki, I saw that McNuggets could be another instance of Frobenius fun. 
 
-### `yarn eject`
+That was the germ that started the idea. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Oblique and kind of dumb, I know. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Execution
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### What's your tech stack?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Nothing too complicated. Hardly a stack to speak of, really.
 
-## Learn More
+`React` front-end, with a `JSON` of my McNugget data built in. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Results get shunted to the `Google Maps` `Places API`, and it sends an appropriate response back.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+About as simple as could be, really.
 
-### Code Splitting
+## Where'd you get your Nugget data?
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+This was, by far, the most time-consuming part of the development process.
 
-### Analyzing the Bundle Size
+The sun never sets on McDonalds' empire. You can find McNuggets in 108 countries. I didn't want to leave out a single one.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+And while some countries share nugget denomination sets ([4,9,20] or [6,10,15], etc) in common, they didn't present this information in any common format.
 
-### Making a Progressive Web App
+Sometimes it looked like this.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Or like this.
 
-### Advanced Configuration
+Or even like this.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Which meant that writing a scraping script — my preferred method of getting this kind of data — would not be possible.
 
-### Deployment
+I had to do it all by hand, visiting McDonalds.kz or McDonalds.fr or McDonalds.jp, and writing down what I saw.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+In one instance (the American Virgin Islands), I even had to pick up the phone.
 
-### `yarn build` fails to minify
+But as you can see, the results were *clearly* worth it.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## How are calories calculated?
+
+So glad you asked. 
+
+It starts with the (compendium of physical activities)[https://sites.google.com/site/compendiumofphysicalactivities/home], which estimates the amount of exertion required to perform a given activity.
+
+The compendium uses a unit of energy called the MET (metabolic equivalents . 1 MET is the amount of energy it takes to sit quietly. 3.5 METs is about what it takes for the average person to walk.
+
+Once I found that out, I was able to plug that value in to metabolic calculators that account for age, height, weight, and gender. 
+
+Mostly derived from the [Harris-Benedict forumla.](https://sites.google.com/site/compendiumofphysicalactivities/corrected-mets)
+
+## I'm from [COUNTRY] and you got my denominations wrong!
+
+Of course I did! I'm so sorry!
+
+Please, feel free to email me about this. I want the Nuggulator to be as accurate as possible.
+
+# The End
+
+Enjoy the Nuggulator!
