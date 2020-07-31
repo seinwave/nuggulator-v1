@@ -36,7 +36,7 @@ Nothing too complicated. Hardly a stack to speak of, really.
 
 Results get shunted to the `Google Maps` `Places API`, and it sends an appropriate response back.
 
-About as simple as could be, really.
+About as simple as could be.
 
 ## Where'd you get your Nugget data?
 
