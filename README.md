@@ -67,8 +67,9 @@ Or even like this.
 <p align = "center">
 <figure>
 <img alt = "Belarusian Menu" src = "documentation-assets/mcd-belarus.png">
-</p>
 *(Perhaps I can interest you in some Big Shrimps?)*
+</p>
+
 
 
 
