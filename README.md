@@ -64,7 +64,7 @@ But as you can see, the results were *clearly* worth it.
 
 So glad you asked. 
 
-It starts with the (compendium of physical activities)[https://sites.google.com/site/compendiumofphysicalactivities/home], which estimates the amount of exertion required to perform a given activity.
+It starts with the [compendium of physical activities[(https://sites.google.com/site/compendiumofphysicalactivities/home), which estimates the amount of exertion required to perform a given activity.
 
 The compendium uses a unit of energy called the MET (metabolic equivalents . 1 MET is the amount of energy it takes to sit quietly. 3.5 METs is about what it takes for the average person to walk.
 
