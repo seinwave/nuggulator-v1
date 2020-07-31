@@ -18,7 +18,8 @@ const initialState = {
   bindingNumber: '',
   gender: 'female',
   weight: 130,
-  height: 64,
+  feet: 5,
+  in: 5,
   age: 25,
   average: '',
   route: 'start',
@@ -35,8 +36,7 @@ class App extends Component{
   onRouteChange = (route) => {
     if (route === 'start') {
       this.setState(initialState)
-      this.setState({average: ''})
-      console.log(this.state);
+      this.setState({average: ''});
     } else 
     this.setState({route: route});
   }
@@ -158,7 +158,6 @@ class App extends Component{
         </header>
         <Signature />
       </div>
-      
     );
   }
 }

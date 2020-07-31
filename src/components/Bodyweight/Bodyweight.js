@@ -34,9 +34,16 @@ class Bodyweight extends React.Component {
         <div className = "form pa1 center ">
             <input type = "number"
                 onChange ={(e) => this.props.onInputChange(e)}
-                name = "height"
+                name = "feet"
                 className = "" 
-                placeholder = "Height (in)" />
+                placeholder = "Height - ft " />
+        </div>
+        <div className = "form pa1 center ">
+            <input type = "number"
+                onChange ={(e) => this.props.onInputChange(e)}
+                name = "inches"
+                className = "" 
+                placeholder = "Height - in" />
         </div>
         <div className = "form pa1 center">
             <input type = "number"

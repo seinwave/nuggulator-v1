@@ -22,7 +22,9 @@ class Results extends Component {
         let calories = CalorieConverter(average, height, weight, age, gender, distance);
         let nuggets = NuggetConverter(calories);
         let denominations = GetDenominations(country, countries);
-        
+
+
+        // Makes denomination counts grammatically correct
         if (denominations.length <1 ){
             return onRouteChange('no-country');
         }
@@ -101,6 +103,7 @@ class Results extends Component {
                 GreedyNuggs(denoms,amt,sack);       // run the function again
         }
 
+        // Giving time for Google Maps promise to resolve
         setTimeout(GreedyNuggs(denoms,nuggets,sack),1000);
         
         let countedText = [];

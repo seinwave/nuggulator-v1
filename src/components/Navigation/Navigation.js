@@ -13,6 +13,7 @@ class Navigation extends React.Component {
     }
 
     componentDidMount() {
+        // Initiates Google Autocomplete APIs
         this.autocompleteOrigin = new google.maps.places.Autocomplete(this.autocompleteInputOrigin.current);
         this.autocompleteOrigin.addListener('place_changed', this.handleOriginChanged);
 
@@ -33,7 +34,7 @@ class Navigation extends React.Component {
 
     render() {
         return (
-            <div style = {{height:'auto', width:'90%'}}>
+            <div className = "center" style = {{height:'auto', width:'90%'}}>
             <div style = {{height:'auto', width:'auto'}}>
                 <h1>
                     {"Tell me where you're walking."}
