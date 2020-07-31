@@ -31,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:seinwave/nuggulator.git",
+  "author": "Matt Seidholz <mseidholz@gmail.com>",
+  "license": "MIT"
 }

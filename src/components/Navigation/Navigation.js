@@ -5,7 +5,7 @@ const google = window.google;
 class Navigation extends React.Component {
     constructor(props) {
         super(props);
-        this.autocompleteInputOrigin = React.createRef(); // wat is this?
+        this.autocompleteInputOrigin = React.createRef(); 
         this.autocompleteInputDestination = React.createRef();
         this.autocomplete = null;
         this.handleOriginChanged = this.handleOriginChanged.bind(this);

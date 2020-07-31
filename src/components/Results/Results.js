@@ -14,12 +14,12 @@ class Results extends Component {
 
     render(props) {
 
-        const { onRouteChange, average, polyline, height, weight, age, gender, distance, country } = this.props;
+        const { onRouteChange, average, polyline, feet, inches, weight, age, gender, distance, country } = this.props;
         const countries = Countries; 
         let sack = [];
         let denominationsText = [];
         
-        let calories = CalorieConverter(average, height, weight, age, gender, distance);
+        let calories = CalorieConverter(average, feet, inches, weight, age, gender, distance);
         let nuggets = NuggetConverter(calories);
         let denominations = GetDenominations(country, countries);
         
