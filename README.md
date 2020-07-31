@@ -48,9 +48,28 @@ And while some countries share nugget denomination sets ([4,9,20] or [6,10,15], 
 
 Sometimes it looked like this.
 
+<p align = "center">
+<img alt = "Israeli Menu" src = "documentation-assets/mcd-israel.png">
+</p>
+
 Or like this.
 
+<p align = "center">
+<img alt = "Japanese McDonald's Menu" src = "documentation-assets/mcd-japan.png">
+</p>
+
+
 Or even like this.
+
+<p align = "center">
+<figure>
+<img alt = "Belarusian Menu" src = "documentation-assets/mcd-belarus.png">
+<figcaption>Perhaps I can interest you in some Big Shrimps?</figcaption>
+</figure>
+</p>
+
+
+
 
 Which meant that writing a scraping script — my preferred method of getting this kind of data — would not be possible.
 
