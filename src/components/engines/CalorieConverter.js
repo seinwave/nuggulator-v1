@@ -4,7 +4,7 @@
 const CalorieConverter = (average, feet, inches, weight, age, gender, distance) => {
 
 
-    let height = (feet*12) + inches;
+    let height = (parseInt(feet)*12) + parseInt(inches);
     
     let realDistance;
     if (distance.includes('km')) {
@@ -21,13 +21,13 @@ const CalorieConverter = (average, feet, inches, weight, age, gender, distance) 
         const duration = (realDistance / 3.0);
         const mets = 3.5;
         if (gender === "male"){
+            
             let RMR = (66.4730 
                 + (13.7516 * (weight*0.453592)) 
                 + (5.0033 *(height*5.0033)) 
                 - (6.7550 * age));
             let harrisBenedict = 
                 (((RMR / 1440)/ 5) / (weight*0.453592))*10;
-            
                 return Math.floor(((3.5/harrisBenedict) * mets * duration)); 
         }
         if (gender === "female") {
