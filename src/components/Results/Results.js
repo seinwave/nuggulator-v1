@@ -161,12 +161,12 @@ class Results extends Component {
                     <p>{`There are ${denominationsText}. That means you'll need...`}</p>
                     
                     <div className = "final resuls">
-                    { countedKeys.map(key => 
+                    { countedKeys.map((key,i) => 
                         packImages.filter(img => img.id === key)
-                        .map(({id, src, alt}) => 
+                        .map(({id, src, alt,i}) => 
                         <div> 
                             <figure>
-                            <img key={id} src={src} alt={alt} height="200" width="auto"/>
+                            <img key={id + `${i}`} src={src} alt={alt} height="200" width="auto"/>
                             { counted[id] > 1
                             ? <figcaption>  
                                 {`${counted[id.toString()]} ${wordKeys[id]}-packs`}
@@ -182,10 +182,10 @@ class Results extends Component {
 
                     { extras > 1
                     ? <div>
-                        <div>{extrasArr.map(extra => {
+                        <div>{extrasArr.map((extra,i) => {
                         index = Math.floor(Math.random()*Math.floor(4));
                         return <img 
-                        key={nuggImages[index].id} 
+                        key={i} 
                         src={nuggImages[index].src} 
                         alt={nuggImages[index].alt} 
                         height="200" width="auto"/>})}
