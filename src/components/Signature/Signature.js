@@ -8,8 +8,8 @@ class Signature extends React.Component {
         return (
             <div style = {{display: 'flex', justifyContent: 'flex-end'}}>
                 <p 
-                className = 'f5 white pa3'>A nonsense project by <a href ="https://github.com/seinwave" 
-                className = 'f5 link dim white underline pointer'>Matt Seidholz</a>
+                className = ''>A nonsense project by <a href ="https://mattseidholz.com" 
+                className = ''>Matt Seidholz</a>
                 </p>
             </div>
         )

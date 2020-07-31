@@ -1,7 +1,10 @@
 
 //derived from the Corrected METS formula, here: https://sites.google.com/site/compendiumofphysicalactivities/corrected-mets
 
-const CalorieConverter = (average, height, weight, age, gender, distance) => {
+const CalorieConverter = (average, feet, inches, weight, age, gender, distance) => {
+
+
+    let height = (feet*12) + inches;
     
     let realDistance;
     if (distance.includes('km')) {

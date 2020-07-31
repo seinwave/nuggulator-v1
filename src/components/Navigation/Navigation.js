@@ -13,6 +13,7 @@ class Navigation extends React.Component {
     }
 
     componentDidMount() {
+        // Initiates Google Autocomplete APIs
         this.autocompleteOrigin = new google.maps.places.Autocomplete(this.autocompleteInputOrigin.current);
         this.autocompleteOrigin.addListener('place_changed', this.handleOriginChanged);
 

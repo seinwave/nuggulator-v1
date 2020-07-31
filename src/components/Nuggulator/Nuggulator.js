@@ -4,6 +4,9 @@ import nuggImages from '../images/nuggImages'
 
 class Nuggulator extends Component{
 
+    // Runs the cycling nugget animation 
+    // (which sneakily gives the Google Maps promise time to resolve)
+
     constructor(props){
         super(props);
         this.state = { currentCount: 3 }
