@@ -176,7 +176,6 @@ class Results extends Component {
                                 {`${counted[id.toString()]} ${wordKeys[id]}-pack`}
                             </figcaption>
                             : <figcaption>
-                                {"Wiener Fart"}
                             </figcaption>)}
                             </figure>
                         </div>))}
