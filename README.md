@@ -110,8 +110,8 @@ The only dependency you'll need is `tachyons`, to preserve the stylings. `npm in
 
 If, however, you just want to play with the data — I've got you covered. Here's my McNugget Denomination Dataset:
 
-- As a JSON
-- As a CSV
+- As a <a href = "https://github.com/seinwave/nuggulator/blob/23fe305a94734297a4c3afbef7293bd23d2b3bc3/src/components/engines/countries.json">JSON.</a>
+- As a <a href = "https://github.com/seinwave/nuggulator/blob/d2ea9a55ea3fa721e466d32a5176d8a1f1f8567b/src/components/engines/countries.csv">CSV.</a>
 
 All I ask is you credit me, should you decide to use it.
 
