@@ -100,6 +100,19 @@ Of course I did! I'm so sorry!
 
 Please, feel free to email me about this. I want the Nuggulator to be as accurate as possible.
 
-# The End
+## Clone this app!
 
-Enjoy the Nuggulator!
+If you have ideas to improve the Nuggulator, by all means, fork the repo.
+
+If you want to clone it on your local machine, you should have a pretty easy time of it. Just clone the master branch, using whichever protocl you prefer. 
+
+The only dependency you'll need is `tachyons`, to preserve the stylings. `npm install tachyons` will get you there.
+
+If, however, you just want to play with the data — I've got you covered. Here's my McNugget Denomination Dataset:
+
+- As a JSON
+- As a CSV
+
+All I ask is you credit me, should you decide to use it.
+
+Enjoy!
