@@ -104,7 +104,7 @@ Please, feel free to email me about this. I want the Nuggulator to be as accurat
 
 If you have ideas to improve the Nuggulator, by all means, fork the repo.
 
-If you want to clone it on your local machine, you should have a pretty easy time of it. Just clone the master branch, using whichever protocl you prefer. 
+If you want to clone it on your local machine, you should have a pretty easy time of it. Just clone the master branch, using whichever protocol you prefer. 
 
 The only dependency you'll need is `tachyons`, to preserve the stylings. `npm install tachyons` will get you there.
 
