@@ -8,7 +8,8 @@ The Nuggulator tells you how many McNuggets you need to walk a certain distance.
 
 ![Nuggulator in action](https://mattseidholz.com/assets/images/nuggulator.gif)
 
-Try it out [here.](https://seinwave.github.io/nuggulator)
+Try it out [here.](https://seinwave.github.io/nuggulator) [**JUNE 2023 UPDATE:** Some changes to the Google Maps API have borked this project. I'm planning on restoring it soon!]
+
 
 I don't like to exaggerate — but I think it may be a million times more important than Facebook and Wikipedia put together.
 
